@@ -18,7 +18,7 @@ Android lecture companion: **record → transcribe → structured notes → Ask 
 
 | Name | Role / track |
 |------|----------------|
-| **Muhammad Umer Amir** | Transcription + notes (cloud), RAG, integration |
+| **Muhammad Umer Aamir** | Transcription + notes (cloud), RAG, integration |
 | **Zeeshan Mahmood** | Foundation, data layer & auth |
 | **Daniel Monday-Ogidi** | Library UI |
 | **Adeniyi Ridwan Adetunji** | Record + upload pipeline |
